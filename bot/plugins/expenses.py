@@ -4,7 +4,7 @@ import requests
 import json
 from datetime import datetime
 
-BASE_URL = 'http://127.0.0.1:5000'
+BASE_URL = 'https://expenses.darkube.app'
 
 class expenses(Plugin):
     """
